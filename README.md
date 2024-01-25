@@ -1,16 +1,31 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=huynhanx03.huynhanx03" />
 
-<!--
-**huynhanx03/huynhanx03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Cao+Nhan!;" />
+</h1>
 
-Here are some ideas to get you started:
+ 🔭 A software engineer from Vietnam <br/>
+ 🌱 I am currently studying at **the University of Information Technology** in Ho Chi Minh City, Vietnam.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ ## 💬 Connect with me
+<div align="left"> 
+  <a href="mailto:huynhnhandanang@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/huynhnhan03/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+ 
+## 💻 Languages - Frameworks - Tools
+![](https://skillicons.dev/icons?i=cpp,cs,python,mysql,dotnet,git,")
+
+## 📊 Github Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huynhanx03&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="Streak Stats" style="height: 200px; object-fit: cover;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhanx03&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 200px; object-fit: cover;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huynhanx03&theme=dracula&hide_border=false" alt="Stats" style="height: calc(400px - 200px); object-fit: cover;">
+</div>
+
