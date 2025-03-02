@@ -4,10 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Cao+Nhan!;" />
 </h1>
 
- 🔭 A software engineer from Vietnam <br/>
- 🌱 I am currently studying at **the University of Information Technology** in Ho Chi Minh City, Vietnam.
- 🕵️ Ask me about Java.
- 👨‍💻 All of my projects are available at [https://github.com/huynhanx03](https://github.com/huynhanx03)
+ 🔭 A software engineer from Vietnam. <br/>
+ 🌱 I am currently studying at **the University of Information Technology** in Ho Chi Minh City, Vietnam. <br/>
+ 🕵️ Ask me about Java. <br/>
+ 👨‍💻 All of my projects are available at [https://github.com/huynhanx03](https://github.com/huynhanx03) <br/>
  📫 Contact me: **huynhnhandanang@gmail.com**<br>
 
  ## 💬 Connect with me
