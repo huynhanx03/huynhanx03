@@ -6,7 +6,9 @@
 
  🔭 A software engineer from Vietnam <br/>
  🌱 I am currently studying at **the University of Information Technology** in Ho Chi Minh City, Vietnam.
-
+ 🕵️ Ask me about Java.
+ 👨‍💻 All of my projects are available at [https://github.com/huynhanx03](https://github.com/huynhanx03)
+ 📫 Contact me: **huynhnhandanang@gmail.com**<br>
 
  ## 💬 Connect with me
 <div align="left"> 
@@ -20,12 +22,12 @@
 
  
 ## 💻 Languages - Frameworks - Tools
-![](https://skillicons.dev/icons?i=cpp,cs,python,mysql,dotnet,git,")
+![](https://skillicons.dev/icons?i=java,cpp,redis,kafka,elasticsearch,mysql,sqlite,firebase,django,git,vim,docker")
 
 ## 📊 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huynhanx03&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="Streak Stats" style="height: 200px; object-fit: cover;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhanx03&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 200px; object-fit: cover;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huynhanx03&theme=dracula&hide_border=false" alt="Stats" style="height: calc(400px - 200px); object-fit: cover;">
+  <img src="https://github-readme-stats.vercel.app/api?username=huynhanx03&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Streak Stats" style="height: 200px; object-fit: cover;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhanx03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 200px; object-fit: cover;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huynhanx03&theme=dark&hide_border=false" alt="Stats" style="height: calc(400px - 200px); object-fit: cover;">
 </div>
 
