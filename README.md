@@ -7,7 +7,7 @@
  🔭 A software engineer from Vietnam. <br/>
  📧 Connect with me via **huynhnhandanang@gmail.com**
  
-## 💻 Languages - Frameworks - Tools
+## Skills
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
