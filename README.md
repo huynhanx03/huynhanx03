@@ -6,7 +6,10 @@
 
  🔭 A software engineer from Vietnam. <br/>
  📧 Connect with me via **huynhnhandanang@gmail.com**
- 
+
+> Think deep, build neat, never accept defeat.
+
+<!--
 ## Skills
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
@@ -18,5 +21,5 @@
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+-->
 
